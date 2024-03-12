@@ -1,0 +1,8 @@
+
+    <resources>
+        <string name="currecy_convert">Currency Converter</string>
+        <string name="select_from_currency">Select From Currency</string>
+        <string name="select_to_currency">Select To Currency</string>
+        <string name="enter_amount">Enter Amount</string>
+        <string name="convert">Convert</string>
+    </resources>
